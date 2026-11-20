@@ -2324,7 +2324,7 @@
       "combustibles": {
         "31": {
           "tipo": "BGNC",
-          "precio": 1.904,
+          "precio": 0.1,
           "fechaActualizacion": "2026-11-20"
         }
       }
