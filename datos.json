@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ultimaGeneracion": "2026-11-23T09:47:48.296220+01:00",
+  "ultimaGeneracion": "2026-11-23T11:28:07.279883+01:00",
   "fechaDataset": "2026-11-23",
   "numeroEstaciones": 142,
   "estaciones": [
@@ -676,7 +676,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.999,
+          "precio": 2.05,
           "fechaActualizacion": "2026-11-23"
         }
       }
