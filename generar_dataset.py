@@ -32,9 +32,13 @@ HOY = datetime.now(
 ).date()
 
 
-def fecha_hoy():
+def fecha_actual():
 
-    return HOY.isoformat()
+    return datetime.now(
+        MADRID_TZ
+    ).strftime(
+        "%Y-%m-%d %H:%M"
+    )
 
 
 def parse_precio(valor):
@@ -459,7 +463,7 @@ def actualizar_combustible(
             precio,
 
         "fechaActualizacion":
-            fecha_hoy()
+            fecha_actual()
     }
 
 
@@ -540,7 +544,7 @@ def limpiar_combustibles(
                     info[
                         "fechaActualizacion"
                     ],
-                    "%Y-%m-%d"
+                    "%Y-%m-%d %H:%M"
                 ).date()
 
             except Exception:
@@ -604,7 +608,7 @@ def guardar_dataset(
 
         "fechaDataset":
 
-            fecha_hoy(),
+            fecha_actual(),
 
         "numeroEstaciones":
 
