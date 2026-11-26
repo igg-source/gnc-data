@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "ultimaGeneracion": "2026-11-26T16:19:46.258824+01:00",
-  "fechaDataset": "2026-11-26 16:19",
+  "ultimaGeneracion": "2026-11-26T17:26:53.521226+01:00",
+  "fechaDataset": "2026-11-26 17:26",
   "numeroEstaciones": 141,
   "estaciones": [
     {
@@ -21,7 +21,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -42,7 +42,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -63,7 +63,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.994,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -84,7 +84,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -105,7 +105,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.844,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -126,7 +126,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -147,7 +147,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.181,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -168,7 +168,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.044,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -189,7 +189,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.044,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -210,7 +210,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -231,7 +231,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -252,7 +252,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.044,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -273,7 +273,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -294,7 +294,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -315,12 +315,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -341,7 +341,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -362,7 +362,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -383,7 +383,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.081,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -404,7 +404,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -425,7 +425,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -446,7 +446,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -467,7 +467,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -488,7 +488,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -509,7 +509,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -530,7 +530,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.064,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -551,7 +551,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -572,7 +572,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -593,7 +593,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -614,7 +614,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.889,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -635,7 +635,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.946,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -656,7 +656,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.05,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -677,7 +677,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.076,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -698,7 +698,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.979,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -719,7 +719,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -740,7 +740,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -761,7 +761,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -782,7 +782,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.194,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -803,7 +803,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -824,7 +824,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -845,7 +845,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -866,7 +866,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -887,7 +887,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -908,7 +908,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -929,7 +929,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.149,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -950,7 +950,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -971,7 +971,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -992,7 +992,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1013,7 +1013,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1034,7 +1034,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1055,7 +1055,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1076,7 +1076,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.994,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1097,7 +1097,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1118,7 +1118,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.094,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1139,7 +1139,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.989,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1160,7 +1160,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.974,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1181,7 +1181,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1202,7 +1202,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1223,7 +1223,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.994,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1244,7 +1244,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.189,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1265,7 +1265,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.939,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1286,7 +1286,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1307,7 +1307,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1328,7 +1328,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1349,7 +1349,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1370,7 +1370,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.994,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1391,7 +1391,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1412,7 +1412,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1433,7 +1433,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1454,7 +1454,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1475,12 +1475,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.979,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.979,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1501,7 +1501,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1522,7 +1522,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1543,7 +1543,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1564,7 +1564,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.966,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1585,7 +1585,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1606,7 +1606,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1627,7 +1627,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1648,7 +1648,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1669,7 +1669,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1690,7 +1690,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1711,7 +1711,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1732,7 +1732,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1753,7 +1753,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.948,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1774,7 +1774,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1795,7 +1795,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1816,7 +1816,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1837,7 +1837,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1858,7 +1858,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.989,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1879,7 +1879,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1900,7 +1900,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.399,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1921,7 +1921,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1942,7 +1942,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1963,7 +1963,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -1984,7 +1984,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.189,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2005,7 +2005,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.189,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2026,7 +2026,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2047,7 +2047,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2068,7 +2068,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.189,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2089,7 +2089,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2110,7 +2110,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2131,7 +2131,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2152,7 +2152,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2173,7 +2173,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2194,7 +2194,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.149,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2215,7 +2215,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.299,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2236,12 +2236,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2262,7 +2262,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.989,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2283,7 +2283,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.926,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2304,7 +2304,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2325,7 +2325,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.844,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2346,7 +2346,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2367,7 +2367,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2388,12 +2388,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.979,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.979,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2414,7 +2414,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2435,7 +2435,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.989,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2456,7 +2456,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2477,7 +2477,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2498,7 +2498,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.824,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2519,7 +2519,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.044,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2540,7 +2540,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.126,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2561,7 +2561,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2582,7 +2582,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2603,7 +2603,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.115,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2624,7 +2624,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2645,7 +2645,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2666,7 +2666,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2687,7 +2687,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2708,7 +2708,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.939,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2729,7 +2729,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2750,7 +2750,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2771,7 +2771,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2792,12 +2792,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2818,7 +2818,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.981,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2839,7 +2839,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2860,7 +2860,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 2.099,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2881,7 +2881,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2902,7 +2902,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2923,7 +2923,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.999,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2944,7 +2944,7 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2965,12 +2965,12 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         },
         "31": {
           "tipo": "BGNC",
           "precio": 1.969,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     },
@@ -2991,7 +2991,7 @@
         "31": {
           "tipo": "BGNC",
           "precio": 2.199,
-          "fechaActualizacion": "2026-11-26 16:19"
+          "fechaActualizacion": "2026-11-26 17:26"
         }
       }
     }
