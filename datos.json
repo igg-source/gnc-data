@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ultimaGeneracion": "2026-11-26T17:55:53.521226+01:00",
+  "ultimaGeneracion": "2026-11-26T17:59:53.521226+01:00",
   "fechaDataset": "2026-11-26 17:26",
   "numeroEstaciones": 141,
   "estaciones": [
@@ -2303,8 +2303,8 @@
       "combustibles": {
         "31": {
           "tipo": "BGNC",
-          "precio": 1.904,
-          "fechaActualizacion": "2026-11-26 17:26"
+          "precio": 1.000,
+          "fechaActualizacion": "2026-11-25 17:26"
         }
       }
     },
